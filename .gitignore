@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Local env
+.env
+.venv/
+venv/
+
+# Data (public repo should not ship raw/large/proprietary)
+data/
+outputs/
