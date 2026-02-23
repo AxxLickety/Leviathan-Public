@@ -18,6 +18,18 @@ Demonstrated capabilities:
 - Forward return evaluation
 - OOS and tail-risk awareness
 
+## Why this matters
+
+Housing markets exhibit structural regime shifts.
+Ignoring regime effects can distort forward risk distribution.
+
+This project focuses on:
+- Distribution-aware modeling
+- Downside tail compression
+- Exposure conditioning logic
+
+Designed as a research-first applied quant prototype.
+
 Status:
 Prototype-level validation completed (Austin panel).
 Public version designed for transparency and collaboration.
